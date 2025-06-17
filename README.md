@@ -10,3 +10,7 @@ Select By ID : SQL query to fetch details by ID
 
 Employee Names : SQL Query to list all employess names
 ![image](https://github.com/user-attachments/assets/7ba0f90d-6700-489a-8269-b9ceaf04091f)
+
+
+Japanese Cities : Query to filter Japanese City
+![image](https://github.com/user-attachments/assets/3018f7e3-b703-4fb4-bfe8-020fb6f0506a)

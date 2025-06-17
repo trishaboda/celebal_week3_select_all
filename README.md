@@ -6,3 +6,7 @@ Select All : SQL Quey to fetch all details
 
 Select By ID : SQL query to fetch details by ID
 ![image](https://github.com/user-attachments/assets/68e1a1ab-3564-445e-8d97-0d3089b48bd6)
+
+
+Employee Names : SQL Query to list all employess names
+![image](https://github.com/user-attachments/assets/7ba0f90d-6700-489a-8269-b9ceaf04091f)

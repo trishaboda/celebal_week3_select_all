@@ -22,3 +22,7 @@ Weather Observation Station 1 : SQL Query to list of city and state
 
 Weather Observation Station 3 : Query a list of CITY names from STATION for cities that have an even ID number
 ![image](https://github.com/user-attachments/assets/802e0853-e28c-4148-8961-18bcc85c054c)
+
+
+Weather Observation Station 4 : Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table
+![image](https://github.com/user-attachments/assets/9f9b378e-3734-41a6-91d7-d873a7456f18)

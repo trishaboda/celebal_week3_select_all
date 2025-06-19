@@ -34,3 +34,7 @@ Weather Observation Station 5 : Query the two cities in STATION with the shortes
 
 Average Population : Query the average population for all cities in CITY, rounded down to the nearest integer.
 ![image](https://github.com/user-attachments/assets/aae5bd9f-a613-4e65-abad-d0ad46311399)
+
+
+Average Population of Each Continent: Query the average population for all cities in CITY, rounded down to the nearest integer.
+![image](https://github.com/user-attachments/assets/e6b00ffb-9605-4263-9b7a-ca596da72220)

@@ -30,3 +30,7 @@ Weather Observation Station 4 : Find the difference between the total number of 
 
 Weather Observation Station 5 : Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths
 ![image](https://github.com/user-attachments/assets/e9f1ba41-b09b-4209-ae56-c7e765ac2fc8)
+
+
+Average Population : Query the average population for all cities in CITY, rounded down to the nearest integer.
+![image](https://github.com/user-attachments/assets/aae5bd9f-a613-4e65-abad-d0ad46311399)

@@ -26,3 +26,7 @@ Weather Observation Station 3 : Query a list of CITY names from STATION for citi
 
 Weather Observation Station 4 : Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table
 ![image](https://github.com/user-attachments/assets/9f9b378e-3734-41a6-91d7-d873a7456f18)
+
+
+Weather Observation Station 5 : Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths
+![image](https://github.com/user-attachments/assets/e9f1ba41-b09b-4209-ae56-c7e765ac2fc8)

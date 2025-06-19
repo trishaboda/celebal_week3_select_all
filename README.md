@@ -14,3 +14,11 @@ Employee Names : SQL Query to list all employess names
 
 Japanese Cities : Query to filter Japanese City
 ![image](https://github.com/user-attachments/assets/3018f7e3-b703-4fb4-bfe8-020fb6f0506a)
+
+
+Weather Observation Station 1 : SQL Query to list of city and state
+![image](https://github.com/user-attachments/assets/896165d7-4797-4e18-81a6-8d41d565be3a)
+
+
+Weather Observation Station 3 : Query a list of CITY names from STATION for cities that have an even ID number
+![image](https://github.com/user-attachments/assets/802e0853-e28c-4148-8961-18bcc85c054c)
